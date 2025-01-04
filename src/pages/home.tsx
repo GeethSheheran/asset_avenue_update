@@ -13,7 +13,7 @@ import {
   BlockchainRealEstate,
   // Countdown
 } from "@/components";
-import { FC, useState } from "react";
+import { FC } from "react";
 
 const backgroundStyles = [
   {
